@@ -26,7 +26,7 @@ conference:
   location: 
 ```
 
-And of course, the vital fields:
+And of course, the date fields.
 
 ```
 conference:
@@ -35,6 +35,7 @@ conference:
   - YYYY-MM-DD
   - YYYY-MM-DD
 ```
+Include in this list each day that the conference will run. They will be used later for generating the [schedule](./schedule.md).
 
 Note the use of the [ISO standard in date writing](https://en.wikipedia.org/wiki/ISO_8601), being an international conference we use international dates. All dates should be written in full, or using ISO standards. The remote theme takes care of this mostly for you. 
 
