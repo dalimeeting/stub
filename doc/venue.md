@@ -14,7 +14,7 @@ While great locations have been a feature of AISTATS, there is always a tension 
 
 Of course you get to put your individual stamp on the conference, but it's useful to bear these traditions in mind as guide rails. 
 
-Once you have your venue, quietly congratulate yourself, and edit the `[_config.yml`](../_config.yml) file to update the followint fields.
+Once you have your venue, quietly congratulate yourself, and edit the [`_config.yml`](../_config.yml) file to update the followint fields.
 
 ```
 conference:
