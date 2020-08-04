@@ -6,7 +6,7 @@ The aim of this document is to ease that stress. It integrates a checklist of th
 
 The first two things can be done in parallel.
 
-1. You need to find a venue and set the dates [./venue.md](venue).
-2. You need to [./committees.md](build your organisation team).
+1. You need to find a venue and set the dates [venue](./venue.md).
+2. You need to [build your organisation team](./committees.md).
 
 You should start on these two jobs as soon as you have agreed to run the conference. 
