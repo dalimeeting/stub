@@ -18,9 +18,12 @@ Once you have your venue, quietly congratulate yourself, and edit the [`_config.
 
 ```
 conference:
-  location: 
+  # Set the name of the venue (e.g. Caribe Hilton Hotel)  
   venue:
+  # Give the url of the venue here.  
   venue_url:
+  # Give the conference location in the form City, Country here.
+  location: 
 ```
 
 And of course, the vital fields:
