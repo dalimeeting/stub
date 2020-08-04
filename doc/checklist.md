@@ -13,8 +13,8 @@ When each of these is done you can cross them off using ~~two tildes for strike 
 6. Start advertising. 
    1. If you created a twitter account, add it to the [`_config.yml`](../_config.yml)
 7. First pass budget.
-8. Finalise invited speakers and add the speakers to the [invited speakers page](../speakers.html).
-8. Approach sponsors.
+8. Finalise [invited speakers](./invited-speakers.md) and add the speakers to the [invited speakers page](../speakers.html).
+8. Approach [sponsors](./sponsors.md).
 9. Select a submission system: add the submission system to the [`_config.yml`](../_config.yml) file.
 10. Select your key dates: add the key dates to the [`_config.yml`](../_config.yml) file.
 11. Appoint your area chairs.
