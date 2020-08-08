@@ -27,15 +27,13 @@ cd aistatsXXXX
 git branch -m gh-pages
 git push --mirror https://github.com/aistats/aistatsXXXX.git
 ```
-6. Edit the `_config.yml` file in the new repo to set `baseurl` to `/aistatsXXXX`
+7. Edit the `_config.yml` file in the new repo to set `baseurl` to `/aistatsXXXX`
 
-7. Check that the stub website appears online at http://aistats.org/aistatsXXXX/
+8. Check that the stub website appears online at http://aistats.org/aistatsXXXX/
 
-8. Update the main AISTATS site to list the current year's conference (presuming that the previous year's hs finised) [https://github.com/aistats/aistats.github.io](https://github.com/aistats/aistats.github.io).
+9. Update the main AISTATS site to list the current year's conference (presuming that the previous year's hs finised) [https://github.com/aistats/aistats.github.io](https://github.com/aistats/aistats.github.io).
 
-9. Add the team `aistatsXXXX` to the admin rights for the repo `aistatsXXXX`
-
-10. Create a new admin team for this year's page, `aistatsYYYY`, where `YYYY=XXXX+1` and assign it to admin `aistats.github.io` 
+11. Create a new admin team for this year's page, `aistatsXXXX`, and assign it to admin `aistatsXXXX` 
 
 ## More information
 
