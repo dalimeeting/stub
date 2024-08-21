@@ -1,10 +1,10 @@
 # Venue
 
-The tradition for AISTATS is to select a venue with warmer weather, ideally a place where swimming is possible. As the conference gets bigger though, this may be harder.
+The tradition for DALI is to select a venue with warmer weather, ideally a place where swimming is possible. As the conference gets bigger though, this may be harder.
 
 First things first. Check with the previous chairs about how many attendees you might expect. What is the trend, is the conference growing or shrinking? Once you have an idea of capacity you can choose your venue. 
 
-Typically AISTATS is held between April and May. The first conferences were held in January, often in Florida, but with NeurIPS occuring in early December, the conference gradually moved towards Spring and early Summer (filling a gap between NeurIPS and ICML/UAI. 
+Typically DALI is held between April and May. The first conferences were held in January, often in Florida, but with NeurIPS occuring in early December, the conference gradually moved towards Spring and early Summer (filling a gap between NeurIPS and ICML/UAI. 
 
 The venue and timing challenge are interdependent, but often a venue is chosen first, and then the rough timing is adjusted to best suit. Precise timing is often pinned down in discussion with the venue.
 
