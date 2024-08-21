@@ -1,18 +1,20 @@
 # Site settings
-title: Artificial Intelligence and Statistics Conference
+title: DALI 20XX
+subtitle: Data, Learning and Inference
+permalink: "/:title.html"
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website of the AISTATS 20XX conference.
-baseurl: "/aistats20XX" # the subpath of your site, e.g. /blog/
+  This is the website of the DALI 20XX conference.
+baseurl: "/dali20XX" # the subpath of your site, e.g. /blog/
 
 # If you want to create a twitter account for your conference include
 # twitter name here
 twitter_username: 
 
-github_username:  aistats
+github_username:  dalimeeting
 
 author:
-  name: AISTATS
-  # YOu might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
+  name: DALI
+  # You might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
   email: 
 comments: false
 
@@ -24,21 +26,25 @@ plugins:
 - jekyll-remote-theme
 # change encoding for the generated output files to utf-8
 encoding: utf-8
-remote_theme: lawrennd/proceedings
-style: aistats
+remote_theme: dalimeeting/jekyll-theme
+style: dali
 
 ghub:
   edit: true
-  repository: aistats20XX
+  repository: dali20XX
 
+# Also generate pages with dates in the future
+future: true
 
 # Place a banner image in assets/images and give its name here.
 banner: resort.png 
 
 conference:
-  full_name: Artificial Intelligence and Statistics
-  short_name: AISTATS
-  name: Artificial Intelligence and Statistics
+  draft: true
+  hide_tentative: false
+  full_name: Data, Learning and Inference
+  short_name: DALI
+  name: Data, Learning and Inference
   # set to True if the programme is draft only.
   draft: true
   # set to True to hide tentative speakers
@@ -60,8 +66,8 @@ conference:
   year: 20XX
   # Give the instance of the conference here (e.g. 24th)
   instance:
-  # Styling for AISTATS is "International Conference"  
-  styling: International Conference on
+  # Styling for DALI is "Workshop on"  
+  styling: Workshop on
   # Give the individual days that the conference will be held on here.
   dates:
   - 20XX
@@ -148,3 +154,13 @@ conference:
       given: 
       url: 
       institute: 
+  sponsors:
+  # Sponsor name here
+  - name:
+  # Sponsor URL here
+    url: 
+  # Sponsor name here
+  - name: 
+  # Sponsor URL here
+    url: 
+ 
